@@ -12723,6 +12723,12 @@ code {
     border-radius: .25rem
 }
 
+code2 {
+    background: #d1ea32a1;
+    color: #252930;
+    padding: 0.25rem 0.375rem;
+    border-radius: .25rem
+}
 .table-bordered th,
 .table-bordered td {
     border-color: #e7e9ed
@@ -12990,6 +12996,10 @@ a.text-link:hover {
     font-weight: 300
 }
 
+.site-logo .org-text {
+    font-weight: 200
+}
+
 .site-logo .navbar-brand {
     font-size: 2rem;
     font-weight: 600;
@@ -13154,7 +13164,7 @@ a.text-link:hover {
 .docs-logo-wrapper {
     position: absolute;
     left: 15px;
-    top: 0.5rem
+    top: 1rem
 }
 
 .docs-logo-wrapper .site-logo {
@@ -13162,7 +13172,7 @@ a.text-link:hover {
 }
 
 .docs-top-utilities {
-    padding-top: 4px
+    padding-top: 12px
 }
 
 .docs-sidebar-toggler {
@@ -13352,13 +13362,13 @@ a.text-link:hover {
 }
 
 .docs-article .docs-heading {
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-bottom: 2rem;
     position: relative
 }
 
-.docs-article .docs-time {
-    position: absolute;
+.docs-section .docs-time {
+ 
     display: inline-block;
     right: 0;
     bottom: 1rem;
