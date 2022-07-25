@@ -12723,16 +12723,7 @@ code {
     border-radius: .25rem
 }
 
-code2 {
-    background: #d1ea32a1;
-    color: #252930;
-    padding: 0.25rem 0.375rem;
-    border-radius: .25rem
-}
-.table-bordered th,
-.table-bordered td {
-    border-color: #e7e9ed
-}
+
 
 .table th,
 .table td {
