@@ -13382,7 +13382,8 @@ a.text-link:hover {
 .docs-article .section-heading {
     font-size: 1.875rem;
     margin-bottom: 1rem;
-    color: #252930
+    color: #252930;
+    word-wrap: break-word;
 }
 
 .docs-article h2,
