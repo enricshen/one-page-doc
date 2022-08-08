@@ -1,6 +1,6 @@
 # One Page Layer Catalogue for ArcGIS Online or Portal
 
-Create a simple layer catalogue for your ArcGIS Online or Portal items in under a minute.
+## Create a simple layer catalogue for your ArcGIS Online or Portal items in under a minute.
 
 
 
