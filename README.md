@@ -4,7 +4,7 @@ Create a simple layer catalogue for your ArcGIS Online or Portal items in under 
 
 
 
-Here is a [Demo Page]([One Page Layer Catalogue (enricshen.com)](https://enricshen.com/apps/one-page-doc/)) of what it looks like. 
+Here is a [Demo Page](https://enricshen.com/apps/one-page-doc/) of what it looks like. 
 
 
 Before you run the workbench, make sure you fill in the metadata for your hosted layers in ArcGIS Online or Portal. 
